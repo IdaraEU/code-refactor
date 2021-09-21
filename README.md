@@ -1,5 +1,7 @@
 # Horiseon Website Accessibility Refactor
 
+## Importance
+
 ## Project Description
 
 ## Contents
